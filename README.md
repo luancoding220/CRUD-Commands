@@ -1,6 +1,6 @@
 # First Project in C#
 
-This project has the intention to help developer from learning database commands and so more other features.
+This project has the intention to help developers from learning database commands and so more other features.
 
 Cares that you need before initializing your project:
 
