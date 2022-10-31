@@ -26,6 +26,8 @@ SET time_zone = "+00:00";
 --
 -- Table structure for table `tbestoque`
 --
+-- The most important part
+--
 
 CREATE TABLE `tbestoque` (
   `id` int(11) NOT NULL,
